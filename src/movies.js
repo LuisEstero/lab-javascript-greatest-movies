@@ -30,8 +30,8 @@ function scoresAverage() {
 }
 
 // Iteration 4: Drama movies - Get the average of Drama Movies
-function dramaMoviesScore() {
-
+function dramaMoviesScore(arr) {
+  const dramaMovies = arr.sort.dramaMoviesScore()
 
 }
 
